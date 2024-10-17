@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-**Introduction**
-
 I am Parinaz Sattarzadeh, a passionate and experienced software Engineer with a focus on creating secure, scalable solutions in the banking sector. 
 Over the past several years, I have contributed to major projects in the Middle East Bank and Centeral Bank Of Iran, including :
 
@@ -19,7 +17,6 @@ Over the past several years, I have contributed to major projects in the Middle 
 -Enhanced Services with the Public Key Infrastructure (PKE),
 
 -Performed security analysis, penetration testing, and delivered security assessment reports
-
 
 I hold a Master's degree in Computer Engineering with a focus on Artificial Intelligence, as well as a Bachelor's degree in Computer Science. Throughout my career, I have developed strong expertise in software development and software security. I have worked on critical systems that manage millions of transactions, ensuring security and reliability.
 
