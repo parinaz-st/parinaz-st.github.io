@@ -16,8 +16,6 @@ Over the past several years, I have contributed to major projects in the Middle 
 
 -The implementation of Banking as a Service (BaaS) platforms,
 
--and Identity and Access Management (IAM) integrations using te,chnologies such as Java, Spring Boot, and Keycloak,
-
 -Enhanced Services with the Public Key Infrastructure (PKE),
 
 -Performed security analysis, penetration testing, and delivered security assessment reports
