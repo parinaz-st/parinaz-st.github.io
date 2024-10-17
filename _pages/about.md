@@ -21,5 +21,5 @@ Over the past several years, I have contributed to major projects in the Middle 
 -Performed security analysis, penetration testing, and delivered security assessment reports
 
 
-I hold a Master's degree in Computer Engineering with a focus on Artificial Intelligence, as well as a Bachelor's degree in Computer Science. Throughout my career, I have developed strong expertise in software security, distributed systems, and AI-driven solutions for software development. I have worked on critical systems that manage millions of transactions, ensuring security and reliability.
+I hold a Master's degree in Computer Engineering with a focus on Artificial Intelligence, as well as a Bachelor's degree in Computer Science. Throughout my career, I have developed strong expertise in software development and software security. I have worked on critical systems that manage millions of transactions, ensuring security and reliability.
 
