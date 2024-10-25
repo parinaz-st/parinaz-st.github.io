@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "images/parinaz.png"
-  name             : "parinaz"
+  name             : "parinaz.png"
   pronouns         : # example: "she/her"  
   bio              : "I am Parinaz Sattarzadeh, a software developer with expertise in secure banking systems, artificial intelligence, and distributed computing. "
   location         : "Tehran, Iran"
