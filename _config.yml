@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/parinaz.png"
+  avatar           : "images/parinaz-avatar.png"
   name             : "parinaz"
   pronouns         : # example: "she/her"  
   bio              : "I am Parinaz Sattarzadeh, a software developer with expertise in secure banking systems, artificial intelligence, and distributed computing. "
