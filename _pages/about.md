@@ -22,6 +22,7 @@ My academic and research interests span across several exciting fields:
 - **Trustworthy ML/AI**
 
 **Professional Experience**
+
 I have worked on various high-impact projects in the financial and technology sectors, including:
 
 - **Middle East Bank**: The implementation of Banking as a Service (BaaS) platforms 
