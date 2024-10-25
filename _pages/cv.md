@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Eng. in Computer Engineering (Major: Artificial Intelligence), Alzahra University, Tehran, Iran 2016
+* B.S. in Computer Science, Shahid Beheshti University, 2013
 
 Work experience
 ======
