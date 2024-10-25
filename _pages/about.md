@@ -15,18 +15,18 @@ I hold a Master's degree in Computer Engineering with a focus on Artificial Inte
 **Research and Interests**
 
 My academic and research interests span across several exciting fields:
-•	AI for Software Engineering: Leveraging AI tools to enhance software automation, performance monitoring, and security.
-•	Cloud-Based Distributed Systems: Exploring scalable architectures for large-scale financial and enterprise applications.
-•	Software Security and Reliability: Focused on developing secure APIs and applications that comply with modern security standards like OWASP and PCI-DSS.
-•	Federated Learning: Investigating privacy-preserving techniques for distributed AI systems
-•	Trustworthy ML/AI
+- **AI for Software Engineering**:  Leveraging AI tools to enhance software automation, performance monitoring, and security.
+- **Cloud-Based Distributed Systems**: Exploring scalable architectures for large-scale financial and enterprise applications.
+- **Software Security and Reliability**: Focused on developing secure APIs and applications that comply with modern security standards like OWASP and PCI-DSS.
+- **Federated Learning**: Investigating privacy-preserving techniques for distributed AI systems
+- **Trustworthy ML/AI**
 
 **Professional Experience**
 I have worked on various high-impact projects in the financial and technology sectors, including:
 
-•	Middle East Bank: The implementation of Banking as a Service (BaaS) platforms 
-•	Novin Kish Informatics Services: The implementationt, configuration, and deployment  of Cheque Book Issuance Management System (SAYAD), Integrating Services  with the Public Key Infrastructure (PKE), 
+- **Middle East Bank**: The implementation of Banking as a Service (BaaS) platforms 
+- **Novin Kish Informatics Services Corporation**: The implementationt, configuration, and deployment  of Cheque Book Issuance Management System (SAYAD), Integrating Services  with the Public Key Infrastructure (PKE), 
 perforing security analysis and penetration testing
-•	Sharif ICT Innovation Center(formerly VASLAB):  Compliance testing on SIM cards for mobile operators, ensuring adherence to international standards such as 3GPP and ETSI, Mobile applciation peneteration testing
+- **Sharif ICT Innovation Center(formerly VASLAB)**:  Compliance testing on SIM cards for mobile operators, ensuring adherence to international standards such as 3GPP and ETSI, Mobile applciation peneteration testing
 
 
