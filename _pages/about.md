@@ -10,7 +10,7 @@ redirect_from:
 
 I am Parinaz Sattarzadeh, an experienced software engineer specializing in secure, scalable solutions in the banking sector. I have contributed to key projects at Middle East Bank and the Central Bank of Iran, including the development of the Cheque Book Issuance Management System (SAYAD) and the implementation of Banking as a Service (BaaS) platforms. Additionally, I have enhanced services with Public Key Infrastructure (PKE) and conducted security analysis, penetration testing, and delivered security assessment reports.
 
-I hold a Master's degree in Computer Engineering with a focus on Artificial Intelligence, as well as a Bachelor's degree in Computer Science. Throughout my career, I have developed strong expertise in software development and software security. I have worked on critical systems that manage millions of transactions, ensuring security and reliability.
+I hold a Master's degree in Computer Engineering with a focus on Artificial Intelligence from Alzahra university, as well as a Bachelor's degree in Computer Science from Shahid Beheshti university, Tehran, Iran. Throughout my career, I have developed strong expertise in software development and software security. I have worked on critical systems that manage millions of transactions, ensuring security and reliability.
 
 **Research and Interests**
 
