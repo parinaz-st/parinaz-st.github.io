@@ -16,10 +16,11 @@ I hold a Master's degree in Computer Engineering with a focus on Artificial Inte
 
 My academic and research interests span across several exciting fields:
 - **AI for Software Engineering**:  Leveraging AI tools to enhance software automation, performance monitoring, and security.
+- **Complex Data Analysis and Tool Development** : Developing tools and simulators to enhance data analysis and representation for complex, evolving datasets through innovative software solutions
+- **Trustworthy and Responsiple AI** : Developing AI systems that are fair, transparent, and ethically aligned to identify and counteract bias, misinformation and harmful content.
 - **Cloud-Based Distributed Systems**: Exploring scalable architectures for large-scale financial and enterprise applications.
 - **Software Security and Reliability**: Focused on developing secure APIs and applications that comply with modern security standards like OWASP and PCI-DSS.
 - **Federated Learning**: Investigating privacy-preserving techniques for distributed AI systems
-- **Trustworthy ML/AI**
 
 **Professional Experience**
 
