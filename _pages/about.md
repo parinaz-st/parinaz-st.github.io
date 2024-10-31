@@ -15,7 +15,7 @@ I hold a Master's degree in Computer Engineering with a focus on Artificial Inte
 I am thrilled and proud to be a software developer, especially as we witness the transformative impact of AI and large language models on our field. With these advancements now enhancing our daily work, I feel it's the perfect time for me to use my software development expertise to contribute to research projects focused on building and improving the intelligent, AI-driven software systems of the future.
 
 
-**Research and Interests**
+
 <span style="color:red; font-weight:bold;">I am actively exploring research opportunities in several key areas that align with my expertise and passions:</span>
 
 - **AI for Software Engineering**:  Leveraging AI tools to enhance software automation, performance monitoring, and security.
