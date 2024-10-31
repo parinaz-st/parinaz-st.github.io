@@ -29,7 +29,7 @@ I am thrilled and proud to be a software developer, especially as we witness the
 I have worked on various high-impact projects, including:
 
 - **Middle East Bank**: The implementation of Banking as a Service (BaaS) platforms .
-- **Novin Kish Informatics Services Corporation**: The implementationt, configuration, and deployment  of Cheque Book Issuance Management System (SAYAD), Integrating Services  with the Public Key Infrastructure (PKE), 
+- **Novin Kish Informatics Services Corporation**: The implementationt, configuration, and deployment  of Cheque Book Issuance Management System (SAYAD-Central Bank of Iran), Integrating Services  with the Public Key Infrastructure (PKE), 
 perforing security analysis and penetration testing.
 - **Sharif ICT Innovation Center(formerly VASLAB)**:  Compliance testing on SIM cards for mobile operators, ensuring adherence to international standards such as 3GPP and ETSI, Mobile applciation peneteration testing.
 
