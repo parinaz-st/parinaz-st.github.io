@@ -21,7 +21,7 @@ I am thrilled and proud to be a software developer, especially as we witness the
 - **AI for Software Engineering**:  Leveraging AI tools to enhance software automation, performance monitoring, and security.
 - **Complex Data Analysis and Tool Development** : Developing tools and simulators to enhance data analysis and representation for complex, evolving datasets through innovative software solutions.
 - **Trustworthy and Responsiple AI** : Developing AI systems that are fair, transparent, and ethically aligned to identify and counteract bias, misinformation and harmful content.
--**Distributed and Cloud-Based Systems and Federated Learning**: Exploring scalable, privacy-preserving architectures for large-scale financial, enterprise, and AI applications.
+- **Distributed and Cloud-Based Systems and Federated Learning**: Exploring scalable, privacy-preserving architectures for large-scale financial, enterprise, and AI applications.
 - **Software Security and Reliability**: Focused on developing secure APIs and applications that comply with modern security standards like OWASP and PCI-DSS.
 
 **Professional Experience**
