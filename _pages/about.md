@@ -19,8 +19,8 @@ I am thrilled and proud to be a software developer, especially as we witness the
 <span style="color:red; font-weight:bold;">I am actively exploring research opportunities in several key areas that align with my expertise and passions:</span>
 
 - **AI4SE and SE4AI**: Integrating AI in software engineering to enhance automation, quality, and reliability, while developing robust and efficient AI systems.
-- **Complex Data Analysis and Tool Development** : Developing tools and simulators to enhance data analysis and representation for complex, evolving datasets through innovative software solutions.
 - **Trustworthy and Responsiple AI** : Developing AI systems that are fair, transparent, and ethically aligned to identify and counteract bias, misinformation and harmful content.
+- **Complex Data Analysis and Tool Development** : Developing tools and simulators to enhance data analysis and representation for complex, evolving datasets through innovative software solutions.
 - **Distributed and Cloud-Based Systems and Federated Learning**: Exploring scalable, privacy-preserving architectures for large-scale financial, enterprise, and AI applications.
 - **Software Security and Reliability**: Focused on developing secure APIs and applications that comply with modern security standards like OWASP and PCI-DSS.
 
