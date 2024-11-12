@@ -21,6 +21,7 @@ I am thrilled and proud to be a software developer, especially as we witness the
 - **AI4SE and SE4AI**: Integrating AI in software engineering to enhance automation, quality, and reliability, while developing robust and efficient AI systems.
 - **Trustworthy and Responsiple AI** : Developing AI systems that are fair, transparent, and ethically aligned to identify and counteract bias, misinformation and harmful content.
 - **Complex Data Analysis and Tool Development** : Developing tools and simulators to enhance data analysis and representation for complex, evolving datasets through innovative software solutions.
+- **LLMs for Code Generation**: Automating and accelerating coding tasks.
 - **Distributed and Cloud-Based Systems and Federated Learning**: Exploring scalable, privacy-preserving architectures for large-scale financial, enterprise, and AI applications.
 - **Software Security and Reliability**: Focused on developing secure APIs and applications that comply with modern security standards like OWASP and PCI-DSS.
 
