@@ -24,6 +24,7 @@ I am thrilled and proud to be a software developer, especially as we witness the
 - **LLMs for Code Generation**: Automating and accelerating coding tasks.
 - **Distributed and Cloud-Based Systems and Federated Learning**: Exploring scalable, privacy-preserving architectures for large-scale financial, enterprise, and AI applications.
 - **Software Security and Reliability**: Focused on developing secure APIs and applications that comply with modern security standards like OWASP and PCI-DSS.
+- **medical machine learning**: Using AI to analyze medical data and develop open-source tools for better diagnostics and treatments with a focus on privacy and ethics.
 
 **Professional Experience**
 
