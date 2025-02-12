@@ -12,7 +12,6 @@ I am Parinaz Sattarzadeh, an experienced software engineer specializing in secur
 
 I hold a Master's degree in Computer Engineering with a focus on Artificial Intelligence from Alzahra university, as well as a Bachelor's degree in Computer Science from Shahid Beheshti university, Tehran, Iran. Throughout my career, I have developed strong expertise in software development and software security. I have worked on critical systems that manage millions of transactions, ensuring security and reliability.
 
-I am thrilled and proud to be a software developer, especially as we witness the transformative impact of AI and large language models on our field. With these advancements now enhancing our daily work, I feel it's the perfect time for me to use my software development expertise to contribute to research projects focused on building and improving the intelligent, AI-driven software systems of the future.
 
 
 **Professional Experience**
