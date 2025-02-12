@@ -15,17 +15,6 @@ I hold a Master's degree in Computer Engineering with a focus on Artificial Inte
 I am thrilled and proud to be a software developer, especially as we witness the transformative impact of AI and large language models on our field. With these advancements now enhancing our daily work, I feel it's the perfect time for me to use my software development expertise to contribute to research projects focused on building and improving the intelligent, AI-driven software systems of the future.
 
 
-
-<span style="color:red; font-weight:bold;">I am actively exploring research opportunities in several key areas that align with my expertise and passions:</span>
-
-- **AI4SE and SE4AI**: Integrating AI in software engineering to enhance automation, quality, and reliability, while developing robust and efficient AI systems.
-- **Trustworthy and Responsiple AI** : Developing AI systems that are fair, transparent, and ethically aligned to identify and counteract bias, misinformation and harmful content.
-- **Complex Data Analysis and Tool Development** : Developing tools and simulators to enhance data analysis and representation for complex, evolving datasets through innovative software solutions.
-- **LLMs for Code Generation**: Automating and accelerating coding tasks.
-- **Distributed and Cloud-Based Systems and Federated Learning**: Exploring scalable, privacy-preserving architectures for large-scale financial, enterprise, and AI applications.
-- **Software Security and Reliability**: Focused on developing secure APIs and applications that comply with modern security standards like OWASP and PCI-DSS.
-- **Medical Machine Learning**: Using AI to analyze medical data and develop open-source tools for better diagnostics and treatments with a focus on privacy and ethics.
-
 **Professional Experience**
 
 I have worked on various high-impact projects, including:
